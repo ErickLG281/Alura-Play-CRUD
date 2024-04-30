@@ -1,0 +1,102 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "descripcion": "3 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 2,
+      "titulo": "¿Cómo ser un Profesional en T? Conociendo al Tech Guide",
+      "descripcion": "1,5 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/0udk1vXmwkc",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 3,
+      "titulo": "¡Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido",
+      "descripcion": "30 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/MXPhyN5t0uQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 4,
+      "titulo": "¿Qué significa ser un Desarrollador Full Stack?",
+      "descripcion": "2,5 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/eejIHbOk_uI",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 5,
+      "titulo": "Como utilizar el Display block, inline, inline-block #aluramás",
+      "descripcion": "1,2 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/AG2QssLpQzI",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 6,
+      "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+      "descripcion": "1,6 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/Z024LSCMqFk",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 7,
+      "titulo": "¿Sabes cómo organizar tu rutina de estudio? Descubre aquí | #aluramás",
+      "descripcion": "3,2 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 8,
+      "titulo": "Cómo evitar robo de vehículo con Inteligencia Artificial | #aluramás",
+      "descripcion": "1,2 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/5T_Q_NtNLZE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "Descubre el poder del Machine Learning",
+      "descripcion": "1 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/edS0Fhg0xyM",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "Desvelando los secretos del Chat GPT: La revolución de la IA",
+      "descripcion": "9 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/0_y09AwR6ns",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 10
+    },
+    {
+      "titulo": "Domina tu flujo de trabajo con Kanban: ¡La guía definitiva para la eficiencia!",
+      "descripcion": "4 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/ew1mwLviTWY",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 11
+    },
+    {
+      "titulo": "Empresas que aprenden | #aluramás",
+      "descripcion": "7 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/mwNfWRsDDWE",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 12
+    },
+    {
+      "titulo": "Música medieval relajante: ambiente de bardo/",
+      "descripcion": "40 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/DNQ4A2Mbu7s",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
+    },
+    {
+      "id": "2932",
+      "titulo": "solo c6",
+      "descripcion": "3 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/Nw4yFQd5G2o",
+      "imagen": "data:image/jpeg;base64,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"
+    }
+  ]
+}
